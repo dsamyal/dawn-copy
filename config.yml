@@ -1,0 +1,9 @@
+  development:
+  password: dixa11@dbug
+  theme_id: "2447ec22-8f6f-485a-9841-4eef66fba697"
+  store: user-store-people.myshopify.com
+  proxy: http://localhost:3000
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
